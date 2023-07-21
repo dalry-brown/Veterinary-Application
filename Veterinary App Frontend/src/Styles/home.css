@@ -259,12 +259,14 @@ h5{
 
 @media(max-width:375px) {
     nav{
-        grid-template-rows: 50% 50%;
+        grid-template-rows: 48% 52%;
         width:90vw;
     }
     h3{
         padding: 0;
         margin: 0;
+        padding-bottom: 1rem;
+        font-size: 1.5rem;
     }
     main{
         padding: 0;
@@ -272,5 +274,15 @@ h5{
     }
     .body{
         width: 100%;
+    }
+    .resource_name{
+        font-size: 1.2rem;
+        padding:10px 0 5px 0;
+        margin: 0;
+    }
+    .recent__element{
+        height: 2rem;
+        width: 2rem;
+        overflow: visible;
     }
 }
