@@ -46,7 +46,7 @@ nav{
     flex-direction: column; */
     padding-left: 5rem;
     height: 100%;
-    grid-template-rows: 65% 35%;
+    grid-template-rows: 60% 40%;
     overflow-y: hidden;
     grid-area: nav;
 }
@@ -172,6 +172,7 @@ h5{
         padding: 0 1rem;
         height: 90vh;
         width: 100vw;
+        grid-template-rows: 65% 35%;
     }
 
     h3{
@@ -192,6 +193,9 @@ h5{
         width: auto;
         overflow-y: scroll;
     }
+    .recent__items{
+        height: 90vh;
+    }
 }
 
 @media(max-width:880px){    
@@ -199,9 +203,17 @@ h5{
         justify-content: flex-start;
         align-items: center;
     }
+    nav{
+        grid-template-rows: 60% 40%;
+    }
 
     .resource__holder{
         gap: 0;
+    }
+    .recent__items{
+        height: 70vh;
+        overflow-y: scroll;
+        scroll-behavior: smooth;
     }
 }
 
@@ -232,5 +244,33 @@ h5{
 @media(max-width:440px) {
     .resource__holder{
         width: 25rem;
+    }
+    nav{
+        grid-template-rows: 48% 52%;
+        width: 90vw;
+    }
+    .recent__items{
+        height: 60vh;
+    }
+    main{
+        padding-left: 0;
+    }
+}
+
+@media(max-width:375px) {
+    nav{
+        grid-template-rows: 50% 50%;
+        width:90vw;
+    }
+    h3{
+        padding: 0;
+        margin: 0;
+    }
+    main{
+        padding: 0;
+        margin: 0;
+    }
+    .body{
+        width: 100%;
     }
 }

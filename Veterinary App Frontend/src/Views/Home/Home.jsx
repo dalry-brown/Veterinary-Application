@@ -76,6 +76,25 @@ const Home = () => {
         <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
         <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
         <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
+        <Recents name="DCIT208" type="Slides" lastOpened="20:17"/>
         </div>
       </footer>
       </nav>
