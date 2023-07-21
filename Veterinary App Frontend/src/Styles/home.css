@@ -5,9 +5,9 @@ background-color:#F5F5F5;
 
 ::-webkit-scrollbar{
     display: none;
-}
+} */
 
-main{
+/* main{
     display: grid;
     grid-template-columns: 1fr 5fr;
     grid-template-rows: 100%;
@@ -15,9 +15,9 @@ main{
     "sidebar section"
     ;
     height: 100%;
-}
+} */
 
-aside{
+/* aside{
     width: 100%;
     /* overflow-y: hidden; */
 /* } */
@@ -29,7 +29,7 @@ main{
 }
 aside{
     grid-area: aside;
-    height: 90vh;
+    height: 91.5vh;
 }
 .body main section{
     height: 100%;
